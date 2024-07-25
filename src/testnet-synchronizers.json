@@ -6,5 +6,13 @@
     "link": "https://www.spiderpool.com/",
     "logoURI": "https://spiderpool.s3.us-west-1.amazonaws.com/images/logo-icon.png",
     "introduction": "SpiderPool, founded in 2018, is a self-developed integrated mining pool with stable operation and solid technology. We are proven to have accumulated rich experience in ETH and BTC mining pool operation, in-depth technological research, strong development and a technical team with more than 11 years of industry experience. After more than six years of accumulated efforts, SpiderPool's ETH (POW) mining pool was ranked 3rd in the world and SpiderPool's current main business BTC mining pool is also among the top in the whole network."
+  },
+  {
+    "name": "exSat Foundation",
+    "synchronizer": "xsatsync.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/app/",
+    "logoURI": "https://github.com/user-attachments/assets/9e55dc32-0d96-4869-9063-963cf64d5441",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
   }
 ]

@@ -12,5 +12,12 @@
     "link": "https://exsat.network/app",
     "logoURI": "https://github.com/user-attachments/assets/9e55dc32-0d96-4869-9063-963cf64d5441",
     "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem.Hayek is the testnet of exSat. the BTC data on it comes from the BTC test3 testnet."
+  },
+  {
+    "name": "Everstake",
+    "validator": "everstk.sat",
+    "link": "https://everstake.one/",
+    "logoURI": "https://everstake.one/logo.png",
+    "introduction": "Everstake is a top-tier responsible validator trusted by 725k+ users across 75+ blockchain networks. Created by engineers for the entire community in 2018"
   }
 ]

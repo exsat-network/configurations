@@ -14,5 +14,13 @@
     "link": "https://exsat.network/app/",
     "logoURI": "https://github.com/user-attachments/assets/9e55dc32-0d96-4869-9063-963cf64d5441",
     "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  },
+  {
+    "name": "F2Pool",
+    "synchronizer": "f2pool.sat",
+    "miningAddress": [],
+    "link": "https://f2pool.com",
+    "logoURI": "https://static.f2pool.com/static/images/logo.png",
+    "introduction": "world’s leading mining pool."
   }
 ]

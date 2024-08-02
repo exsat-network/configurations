@@ -1,30 +1,23 @@
 [
   {
-    "name": "TestValidator",
-    "validator": "validator.sat",
-    "link": "https://validator.com",
-    "logoURI": "https://validator.com/img/logo.png",
-    "introduction": "TestValidator is a leading digital asset management platform in the world"
-  },
-  {
     "name": "Hayek Testnet",
     "validator": "hayekval.sat",
     "link": "https://exsat.network/app",
-    "logoURI": "https://github.com/user-attachments/assets/9e55dc32-0d96-4869-9063-963cf64d5441",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
     "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem.Hayek is the testnet of exSat. the BTC data on it comes from the BTC test3 testnet."
   },
   {
     "name": "Everstake",
     "validator": "everstk.sat",
     "link": "https://everstake.one/",
-    "logoURI": "https://everstake.one/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/everstk.sat.png",
     "introduction": "Everstake is a top-tier responsible validator trusted by 725k+ users across 75+ blockchain networks. Created by engineers for the entire community in 2018"
   },
   {
     "name": "antpool",
     "validator": "f2poolvl.sat",
     "link": "https://www.antpool.com/home",
-    "logoURI": "https://www.antpool.com/brandVi",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/f2poolvl.sat.png",
     "introduction": ""
   }
 ]

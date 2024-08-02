@@ -19,5 +19,12 @@
     "link": "https://everstake.one/",
     "logoURI": "https://everstake.one/logo.png",
     "introduction": "Everstake is a top-tier responsible validator trusted by 725k+ users across 75+ blockchain networks. Created by engineers for the entire community in 2018"
+  },
+  {
+    "name": "antpool",
+    "validator": "f2poolvl.sat",
+    "link": "https://www.antpool.com/home",
+    "logoURI": "https://www.antpool.com/brandVi",
+    "introduction": ""
   }
 ]

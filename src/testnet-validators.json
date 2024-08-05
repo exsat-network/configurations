@@ -14,10 +14,24 @@
     "introduction": "Everstake is a top-tier responsible validator trusted by 725k+ users across 75+ blockchain networks. Created by engineers for the entire community in 2018"
   },
   {
-    "name": "antpool",
+    "name": "Antpool",
     "validator": "f2poolvl.sat",
     "link": "https://www.antpool.com/home",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/f2poolvl.sat.png",
+    "introduction": ""
+  },
+  {
+    "name": "SpiderPool",
+    "validator": "spiderdv.sat",
+    "link": "https://www.spiderpool.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/spiderdv.sat.png",
+    "introduction": "SpiderPool, founded in 2018, is a self-developed integrated mining pool with stable operation and solid technology. We are proven to have accumulated rich experience in ETH and BTC mining pool operation, in-depth technological research, strong development and a technical team with more than 11 years of industry experience. After more than six years of accumulated efforts, SpiderPool's ETH (POW) mining pool was ranked 3rd in the world and SpiderPool's current main business BTC mining pool is also among the top in the whole network."
+  },
+  {
+    "name": "Antpool",
+    "validator": "antvali.sat",
+    "link": "https://www.antpool.com/home",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/antvali.sat.png",
     "introduction": ""
   }
 ]

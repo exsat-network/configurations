@@ -15,7 +15,7 @@
   },
   {
     "name": "Antpool",
-    "validator": "f2poolvl.sat",
+    "validator": "antpool.sat",
     "link": "https://www.antpool.com/home",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/f2poolvl.sat.png",
     "introduction": ""
@@ -33,5 +33,12 @@
     "link": "https://www.antpool.com/home",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/antvali.sat.png",
     "introduction": ""
+  },
+  {
+    "name": "F2Pool",
+    "validator": "f2poolvl.sat",
+    "link": "https://f2pool.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/f2poolvl.sat.png",
+    "introduction": "world’s leading mining pool."
   }
 ]

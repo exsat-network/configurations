@@ -1,0 +1,90 @@
+[
+  {
+    "name": "sync1",
+    "synchronizer": "sync1.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  },
+  {
+    "name": "sync2",
+    "synchronizer": "sync2.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  },
+  {
+    "name": "sync3",
+    "synchronizer": "sync3.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  },
+  {
+    "name": "sync4",
+    "synchronizer": "sync4.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  },
+  {
+    "name": "sync5",
+    "synchronizer": "sync5.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  },
+  {
+    "name": "synca",
+    "synchronizer": "synca.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  },
+  {
+    "name": "syncb",
+    "synchronizer": "syncb.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  },
+  {
+    "name": "syncc",
+    "synchronizer": "syncc.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  },
+  {
+    "name": "syncd",
+    "synchronizer": "syncd.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  },
+  {
+    "name": "synce",
+    "synchronizer": "synce.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  },
+  {
+    "name": "syncf",
+    "synchronizer": "syncf.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  }
+]

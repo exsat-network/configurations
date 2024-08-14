@@ -1,0 +1,149 @@
+[
+  {
+    "name": "vali1",
+    "validator": "vali1.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "vali1."
+  },
+  {
+    "name": "vali2",
+    "validator": "vali2.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "vali2."
+  },
+  {
+    "name": "vali3",
+    "validator": "vali3.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "vali3."
+  },
+  {
+    "name": "vali4",
+    "validator": "vali4.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "vali4."
+  },
+  {
+    "name": "vali5",
+    "validator": "vali5.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "vali5."
+  },
+  {
+    "name": "valia",
+    "validator": "valia.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valia."
+  },
+  {
+    "name": "valib",
+    "validator": "valib.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valib."
+  },
+  {
+    "name": "valic",
+    "validator": "valic.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valic."
+  },
+  {
+    "name": "valid",
+    "validator": "valid.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valid."
+  },
+  {
+    "name": "valie",
+    "validator": "valie.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valie."
+  },
+  {
+    "name": "valif",
+    "validator": "valif.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valif."
+  },
+  {
+    "name": "valig",
+    "validator": "valig.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valig."
+  },
+  {
+    "name": "valih",
+    "validator": "valih.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valih."
+  },
+  {
+    "name": "valii",
+    "validator": "valii.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valii."
+  },
+  {
+    "name": "valij",
+    "validator": "valij.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valij."
+  },
+  {
+    "name": "valik",
+    "validator": "valik.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valik."
+  },
+  {
+    "name": "valil",
+    "validator": "valil.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valil."
+  },
+  {
+    "name": "valim",
+    "validator": "valim.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valim."
+  },
+  {
+    "name": "valin",
+    "validator": "valin.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valin."
+  },
+  {
+    "name": "valio",
+    "validator": "valio.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valio."
+  },
+  {
+    "name": "valip",
+    "validator": "valip.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "valip."
+  }
+]

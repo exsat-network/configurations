@@ -40,5 +40,12 @@
     "link": "https://f2pool.com/",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/f2poolvl.sat.png",
     "introduction": "world’s leading mining pool."
+  },
+  {
+    "name": "BigONE",
+    "validator": "bigone.sat",
+    "link": "https://big.one/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/bigone.sat.svg",
+    "introduction": "BigONE is a pioneering cryptocurrency exchange with a long-standing reputation for excellence. The platform serves as an all-in-one solution for digital assets, offering powerful and user-friendly features such as trading, staking, and financial services. With millions of users globally, BigONE is committed to making cryptocurrency accessible worldwide. The exchange has been a key player in the blockchain revolution, notably as a top block producer in the EOS ecosystem. BigONE is dedicated to leading the future of digital finance by providing a secure, seamless, and comprehensive user experience."
   }
 ]

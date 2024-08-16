@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Hayek Testnet",
+    "validator": "hayekval.sat",
+    "link": "https://exsat.network/app",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem.Hayek is the testnet of exSat. the BTC data on it comes from the BTC test3 testnet."
+  }
+]

@@ -54,5 +54,12 @@
     "link": "https://mipool.one/",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/mipool.sat.png",
     "introduction": "miPool is a professional cryptocurrency mining team that was established in 2016 and has been mining major cryptocurrencies and developing blockchain infrastructure technology, mainly in Asia. We have accumulated a lot of experience and know-how in Bitcoin POW and ETH POW mining, POS staking such as EOS DPoS and Polkadot NPoS, and Filecoin (WindowPoS) mining."
+  },
+  {
+    "name": "Treis Blockchain",
+    "validator": "treis.sat",
+    "link": "",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/treis.sat.png",
+    "introduction": "Founded in 2017 and headquartered in Greenville, South Carolina, USA, Treis Blockchain is a blockchain service provider specializing in the operations and management of immersion and hydro cooled mining operations. They also manage 100s of proof of stake validation nodes and provide consulting/development services for Web3 integrated solutions."
   }
 ]

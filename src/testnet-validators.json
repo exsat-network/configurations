@@ -61,5 +61,12 @@
     "link": "",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/treis.sat.png",
     "introduction": "Founded in 2017 and headquartered in Greenville, South Carolina, USA, Treis Blockchain is a blockchain service provider specializing in the operations and management of immersion and hydro cooled mining operations. They also manage 100s of proof of stake validation nodes and provide consulting/development services for Web3 integrated solutions."
+  },
+  {
+    "name": "ChainUp Cloud",
+    "validator": "chainup.sat",
+    "link": "https://cloud.chainup.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/chainup.sat.png",
+    "introduction": "ChainUp Cloud is an all-in-one Web3 platform that provides a range of services, including API services for developers, DeFi products for users, and node services for everyone."
   }
 ]

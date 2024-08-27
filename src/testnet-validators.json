@@ -68,5 +68,12 @@
     "link": "https://cloud.chainup.com/",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/chainup.sat.png",
     "introduction": "ChainUp Cloud is an all-in-one Web3 platform that provides a range of services, including API services for developers, DeFi products for users, and node services for everyone."
+  },
+  {
+    "name": "Certik",
+    "validator": "certik.sat",
+    "link": "https://www.certik.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/certik.sat.svg",
+    "introduction": "Securing The Web3 World."
   }
 ]

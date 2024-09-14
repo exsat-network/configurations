@@ -82,5 +82,19 @@
     "link": "https://infstones.com/",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/inf.sat.png",
     "introduction": "InfStones is committed to supporting a wide range of AVSes and reward delegators through our Giveaway! "
+  },
+  {
+    "name": "InfStones",
+    "validator": "infstone.sat",
+    "link": "https://infstones.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/infstone.sat.png",
+    "introduction": "InfStones is committed to supporting a wide range of Blockchain, AVS services, and reward delegators."
+  },
+  {
+    "name": "myCactus",
+    "validator": "cactus.sat",
+    "link": "https://www.mycactus.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/infstone.sat.png",
+    "introduction": "Leading Qualified Custodian for Digital Assets."
   }
 ]

@@ -24,6 +24,14 @@
     "introduction": "world’s leading mining pool."
   },
   {
+    "name": "ViaBTC",
+    "synchronizer": "viabtc1.sat",
+    "miningAddress": ["mq8mJR5A15VusVfBq5AEpZjhKS1D34M3vi"],
+    "link": "https://www.viabtc.com",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/viabtc1.sat.png",
+    "introduction": "A Global Cryptocurrency Mining Pool."
+  },
+  {
     "name": "antpool",
     "synchronizer": "antpool.sat",
     "miningAddress": ["39C7fxSzEACPjM78Z7xdPxhf7mKxJwvfMJ","37jKPSmbEGwgfacCr2nayn1wTaqMAbA94Z"],

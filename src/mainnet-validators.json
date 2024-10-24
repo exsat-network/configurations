@@ -11,7 +11,7 @@
     "validator": "everstk.sat",
     "link": "https://everstake.one/",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/everstk.sat.png",
-    "introduction": "Everstake is a top-tier responsible validator trusted by 725k+ users across 75+ blockchain networks. Created by engineers for the entire community in 2018"
+    "introduction": "Everstake is a responsible validator trusted by more than 735k users across 80 various blockchain networks."
   },
   {
     "name": "Antpool",
@@ -32,7 +32,7 @@
     "validator": "f2poolvl.sat",
     "link": "https://f2pool.com/",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/f2poolvl.sat.png",
-    "introduction": "world’s leading mining pool."
+    "introduction": "f2pool is the world’s leading Bitcoin and crypto mining pool since 2013."
   },
   {
     "name": "BigONE",
@@ -89,5 +89,75 @@
     "link": "https://www.mycactus.com/",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/cactus.sat.png",
     "introduction": "Leading Qualified Custodian for Digital Assets."
+  },
+  {
+    "name": "muiden",
+    "validator": "muiden.sat",
+    "link": "https://muiden.com.py/muiden-s-a/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/muiden.sat.png",
+    "introduction": "Instalación y Hosting de Data Center: En MUIDEN, ofrecemos soluciones completas en el ámbito de data centers. En cuanto a la instalación, diseñamos su centro de datos, proporcionamos servidores y materiales de calidad, y contamos con mano de obra altamente especializada para su implementación. En cuanto al hosting, ofrecemos servicios de custodia, mantenimiento y reparación especializada para garantizar el funcionamiento óptimo y la seguridad de su data center. Con MUIDEN, su infraestructura de TI está en manos confiables y expertas."
+  },
+  {
+    "name": "C² Ventures",
+    "validator": "c2sat.sat",
+    "link": "https://www.csquared.vc",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/c2sat.sat.png",
+    "introduction": "C² Ventures takes a chain-agnostic approach, making early-stage investments across all major layer 1 and layer 2 ecosystems.We focus on empowering builders with the capital and operational expertise to build and scale the next generation of Web3 and Metaverse applications."
+  },
+  {
+    "name": "Greymass",
+    "validator": "greymass.sat",
+    "link": "https://www.greymass.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/greymass.sat.png",
+    "introduction": "We're Greymass, an imaginative team of developers and researchers who are paving the way to a better decentralized internet."
+  },
+  {
+    "name": "Greymass",
+    "validator": "greymass.sat",
+    "link": "https://www.greymass.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/greymass.sat.png",
+    "introduction": "We're Greymass, an imaginative team of developers and researchers who are paving the way to a better decentralized internet."
+  },
+  {
+    "name": "Laomao",
+    "validator": "lm.sat",
+    "link": "https://medium.com/@eoslaomao",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/lm.sat.png",
+    "introduction": "Laomao is a key node for the launch of the EOS network and performs the most critical operations for full-vote launch."
+  },
+  {
+    "name": "Pythagoras Investments",
+    "validator": "pgix.sat",
+    "link": "https://pythagoras.investments/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/pgix.sat.jpg",
+    "introduction": "At Pythagoras, we are quantitative traders of cryptocurrencies."
+  },
+  {
+    "name": "Bing Ventures",
+    "validator": "bv.sat",
+    "link": "https://www.bing-ventures.com",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/pgix.sat.png",
+    "introduction": "A pioneering venture capital firm backing early-stage startups in blockchain and Web3."
+  },
+  {
+    "name": "Bing Ventures",
+    "validator": "bv.sat",
+    "link": "https://www.bing-ventures.com",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/pgix.sat.png",
+    "introduction": "A pioneering venture capital firm backing early-stage startups in blockchain and Web3."
+  },
+  {
+    "name": "OKX",
+    "validator": "okxexsat.sat",
+    "link": "https://www.okx.com",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/okxexsat.sat.png",
+    "introduction": "OKX is an innovative cryptocurrency exchange with advanced financial services. We rely on blockchain technology to provide everything you need for wise trading and investment."
+  },
+  {
+    "name": "mars",
+    "validator": "mars.sat",
+    "link": "https://www.bing-ventures.com",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/mars.sat.png",
+    "introduction": ""
   }
 ]

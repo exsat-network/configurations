@@ -129,7 +129,7 @@
     "name": "Pythagoras Investments",
     "validator": "pgix.sat",
     "link": "https://pythagoras.investments/",
-    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/pgix.sat.jpg",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/pgix.sat.png",
     "introduction": "At Pythagoras, we are quantitative traders of cryptocurrencies."
   },
   {

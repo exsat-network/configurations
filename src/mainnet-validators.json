@@ -136,14 +136,7 @@
     "name": "Bing Ventures",
     "validator": "bv.sat",
     "link": "https://www.bing-ventures.com",
-    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/pgix.sat.png",
-    "introduction": "A pioneering venture capital firm backing early-stage startups in blockchain and Web3."
-  },
-  {
-    "name": "Bing Ventures",
-    "validator": "bv.sat",
-    "link": "https://www.bing-ventures.com",
-    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/pgix.sat.png",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/bv.sat.png",
     "introduction": "A pioneering venture capital firm backing early-stage startups in blockchain and Web3."
   },
   {

@@ -67,7 +67,7 @@
     "validator": "certik.sat",
     "link": "https://www.certik.com/",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/certik.sat.png",
-    "introduction": "Securing The Web3 World."
+    "introduction": "CertiK is the world's leading smart contract auditor. We provide full-cycle security solutions for enterprises, including auditing, security rating,Compliance&AML,investment and other security-related services, elevating the entire Web3 journey of our clients."
   },
   {
     "name": "InfStones",
@@ -152,5 +152,33 @@
     "link": "https://www.bing-ventures.com",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/mars.sat.png",
     "introduction": ""
+  },
+  {
+    "name": "Atlas Studios",
+    "validator": "atlas.sat",
+    "link": "https://atlastech.ai",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/atlas.sat.png",
+    "introduction": "Atlas Studios is a strategic simulation software development company, blending AI and blockchain technologies to create innovative gaming experiences."
+  },
+  {
+    "name": "Neo",
+    "validator": "neoexsat.sat",
+    "link": "neo.org",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/neoexsat.sat.png",
+    "introduction": "Neo is an open-source community driven blockchain platform."
+  },
+  {
+    "name": "KuCoin Labs",
+    "validator": "kclabs.sat",
+    "link": "https://www.kucoin.com/land/kucoinlabs",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/kclabs.sat.png",
+    "introduction": "KuCoin Labs diversified and intensified investments at very early-stage of projects and helped more BUIDLers achieve sustainable growth and success in the decentralized world."
+  },
+  {
+    "name": "Genpool",
+    "validator": "genpool.sat",
+    "link": "https://genpool.io",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/genpool.sat.png",
+    "introduction": "Genpool is a trusted staking provider and validator in the crypto space."
   }
 ]

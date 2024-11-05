@@ -180,5 +180,12 @@
     "link": "https://genpool.io",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/genpool.sat.png",
     "introduction": "Genpool is a trusted staking provider and validator in the crypto space."
+  },
+  {
+    "name": "Matrixport",
+    "validator": "matrixpt.sat",
+    "link": "https://www.matrixport.com",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/matrixpt.sat.png",
+    "introduction": "Matrixport is the world’s leading, and Asia’s largest all-in-one hub for crypto financial services, with the commission to building an entry-grade ecosystem for the crypto space, by providing every user with a personalized super account that integrates features including crypto assets trading, investment, loan, custody, RWA, and research."
   }
 ]

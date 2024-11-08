@@ -187,5 +187,12 @@
     "link": "https://www.matrixport.com",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/matrixpt.sat.png",
     "introduction": "Matrixport is the world’s leading, and Asia’s largest all-in-one hub for crypto financial services, with the commission to building an entry-grade ecosystem for the crypto space, by providing every user with a personalized super account that integrates features including crypto assets trading, investment, loan, custody, RWA, and research."
+  },
+  {
+    "name": "KiKi Finance",
+    "validator": "kikifinc.sat",
+    "link": "https://kiki.finance",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/kikifinc.sat.png",
+    "introduction": "KiKi Finance is a decentralized staking protocol that aggregates multiple chains. Users manage their assets through their own private keys, and asset security is free from platform risks. Through the combination mode of Staking+Farm, users can obtain higher returns than ordinary Staking."
   }
 ]

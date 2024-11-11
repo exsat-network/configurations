@@ -194,5 +194,12 @@
     "link": "https://kiki.finance",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/kikifinc.sat.png",
     "introduction": "KiKi Finance is a decentralized staking protocol that aggregates multiple chains. Users manage their assets through their own private keys, and asset security is free from platform risks. Through the combination mode of Staking+Farm, users can obtain higher returns than ordinary Staking."
+  },
+  {
+    "name": "HashKey Cloud",
+    "validator": "hashkey.sat",
+    "link": "https://www.hashkey.cloud",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hashkey.sat.png",
+    "introduction": "HashKey Cloud, a leading provider of global Web3 infrastructure and a core member of the HashKey Group, focuses on delivering professional, stable, and secure blockchain services to clients worldwide. Since 2018, we have been deeply committed to blockchain infrastructure technologies, with our node validation services covering over 80 mainstream public chains.\nWe have upgraded our product line as Web3 transitions from foundational technology to application development. Our new product line includes restaking, BTC Node Validation, Ethereum Layer2, and STO Infra. We aim to meet the diverse needs of our clients and provide top-notch services to the global market."
   }
 ]

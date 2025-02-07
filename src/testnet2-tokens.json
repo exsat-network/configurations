@@ -1,0 +1,10 @@
+[
+  {
+    "symbol": "ETH_SEPOLIA",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/tokens/ETH.svg",
+    "permissionIds": [
+      0
+    ],
+    "defaultPermissionId": 0
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "native": {
+    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
+    "nodes": [
+      "https://rpc-us.exsat.network",
+      "https://rpc-sg.exsat.network"
+    ]
+  },
+  "exsat": {
+    "chainId": 7200,
+    "nodes": [
+      "https://evm.exsat.network"
+    ]
+  }
+}

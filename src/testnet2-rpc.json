@@ -10,5 +10,8 @@
     "nodes": [
       "https://evm2.exactsat.io"
     ]
+  },
+  "app": {
+    "recharge": "https://exsat.network/app/bridge/gas-recharge"
   }
 }

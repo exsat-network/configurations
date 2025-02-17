@@ -12,6 +12,7 @@
     ]
   },
   "app": {
-    "recharge": "https://exsat.network/app/bridge/gas-recharge"
+    "recharge": "https://exsat.network/app/bridge/gas-recharge",
+    "register": "https://portal.exsat.network/register"
   }
 }

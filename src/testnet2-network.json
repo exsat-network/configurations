@@ -14,7 +14,7 @@
   "app": {
     "recharge": "https://exsat.network/app/bridge/gas-recharge",
     "register": "https://tportal.exsat.network/register",
-    "user_guide": "https://docs.exsat.network/guides-of-data-consensus/quick-start",
-    "sync_reg_email": "bd@exsat.org"
+    "userGuide": "https://docs.exsat.network/guides-of-data-consensus/quick-start",
+    "syncRegEmail": "bd@exsat.org"
   }
 }

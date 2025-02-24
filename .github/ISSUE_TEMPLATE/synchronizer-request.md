@@ -8,9 +8,9 @@ assignees: ''
 
 **Please provide the following information for synchronizer.**
 
-Mining pool name:
-Synchronizer Account:
-Reward Account: 
+*Mining pool name:
+*Synchronizer Account:
+*Reward Account: 
 Homepage url: 
 Logo url: 
 Introduction: 

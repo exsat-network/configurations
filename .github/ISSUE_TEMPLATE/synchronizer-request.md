@@ -1,17 +1,16 @@
 ---
 name: Synchronizer Request
 about: Request a synchronizer addition
-title: "[Mining Pool's Name] Submit mining pool registration information"
+title: "[Mining Pool's Name] Submit Synchronizer registration information"
 labels: synchronizer request
 assignees: ''
 ---
 
 **Please provide the following information for synchronizer.**
 
-Account: 
-Name: 
+Mining pool name:
+Synchronizer Account:
 Reward Account: 
-Mining Address (optional): 
 Homepage url: 
 Logo url: 
 Introduction: 

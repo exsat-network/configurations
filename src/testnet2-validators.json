@@ -145,5 +145,12 @@
     "link": "https://exsat.network/",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
     "introduction": "valip."
+  },
+  {
+    "name": "btcwint.sat",
+    "validator": "btcwint.sat",
+    "link": "https://exsat.network/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "btcwint.sat."
   }
 ]

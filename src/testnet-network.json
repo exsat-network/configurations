@@ -10,5 +10,11 @@
     "nodes": [
       "https://evm-tst3.exsat.network"
     ]
+  },
+  "app": {
+    "recharge": "https://exsat.network/app/bridge/gas-recharge",
+    "register": "https://tportal.exsat.network/register",
+    "userGuide": "https://docs.exsat.network/guides-of-data-consensus/quick-start",
+    "contact": "bd@exsat.org"
   }
 }

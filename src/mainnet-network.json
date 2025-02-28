@@ -11,5 +11,11 @@
     "nodes": [
       "https://evm.exsat.network"
     ]
+  },
+  "app": {
+    "recharge": "https://exsat.network/app/bridge/gas-recharge",
+    "register": "https://exsat.network/register",
+    "userGuide": "https://docs.exsat.network/guides-of-data-consensus/quick-start",
+    "contact": "bd@exsat.org"
   }
 }

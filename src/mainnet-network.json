@@ -16,6 +16,7 @@
     "recharge": "https://exsat.network/app/bridge/gas-recharge",
     "register": "https://exsat.network/register",
     "userGuide": "https://docs.exsat.network/guides-of-data-consensus/quick-start",
+    "synchronizerRegistration": "https://docs.exsat.network/guides-of-data-consensus/others/operation-references/synchronizer-operations/synchronizer-registration",
     "contact": "bd@exsat.org",
     "minGasBalance": 0.0001
   }

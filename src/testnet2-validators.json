@@ -147,10 +147,11 @@
     "introduction": "valip."
   },
   {
-    "name": "btcwint.sat",
+    "name": "btcwint",
     "validator": "btcwint.sat",
     "link": "https://exsat.network/",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
-    "introduction": "btcwint.sat."
+    "introduction": "btcwint.sat.",
+    "twitter": "https://x.com/"
   }
 ]

@@ -147,10 +147,19 @@
     "introduction": "valip."
   },
   {
-    "name": "btcwint.sat",
+    "name": "btcwint",
     "validator": "btcwint.sat",
     "link": "https://exsat.network/",
     "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
-    "introduction": "btcwint.sat."
+    "introduction": "btcwint.sat.",
+    "twitter": "https://x.com/"
+  },
+  {
+    "name": "pablo",
+    "validator": "pablo.sat",
+    "link": "https://ufree.cc/",
+    "logoURI": "https://raw.githubusercontent.com/kangfengyu/public_file/refs/heads/main/p.png",
+    "introduction": "Pablo Finance is a decentralized staking protocol that aggregates multiple chains. Users manage their assets through their own private keys, and asset security is free from platform risks. Through the combination mode of Staking+Farm, users can obtain higher returns than ordinary Staking.",
+    "twitter": "https://x.com/"
   }
 ]

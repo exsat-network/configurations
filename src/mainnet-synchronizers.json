@@ -44,7 +44,7 @@
     "synchronizer": "maxipool.sat",
     "miningAddress": ["36r3YqAXWpyqNcczjCBdHrYZ3m8X56WDzx"],
     "link": "https://maxipool.org",
-    "logoURI": "https://maxipool.s3.ap-southeast-1.amazonaws.com/Maxipool.svg",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/maxipool.sat.png",
     "introduction": "MaxiPool, the best bitcoin&fractal bitcoin merge mining pool."
   }
 ]

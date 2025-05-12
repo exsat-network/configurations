@@ -4,8 +4,12 @@
     "synchronizer": "sync1.sat",
     "miningAddress": [],
     "link": "https://exsat.network/",
-    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
-    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/f2pool.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem.",
+    "twitter":"https://twitter.com/exSatNetwork",
+    "telegram":"https://t.me/exSatNetwork",
+    "discord":"https://discord.gg/QQ8wJ62aSL",
+    "medium":"https://medium.com/@exSatNetwork"
   },
   {
     "name": "sync2",
@@ -20,7 +24,7 @@
     "synchronizer": "sync3.sat",
     "miningAddress": [],
     "link": "https://exsat.network/",
-    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/f2pool.sat.png",
     "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
   },
   {
